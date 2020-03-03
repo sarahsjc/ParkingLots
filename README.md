@@ -2,5 +2,5 @@
 DDD homework
 
 Model:
-![model](src/main/resources/model.png)
+![model](../src/main/resources/model.png)
 
